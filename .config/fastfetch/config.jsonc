@@ -61,7 +61,7 @@
         {
             "type": "os",
             "key": "›  OS   ",
-            "format": "{pretty-name}",
+            "format": "Kwaadaardige {pretty-name}",
             "keyColor": "white"
         },
         {
