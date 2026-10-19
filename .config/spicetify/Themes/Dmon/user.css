@@ -1,3 +1,23 @@
+/* the random content in the middle of the screen like "made for you */
 .main-home-content.contentSpacing {
+    display: none;
+}
+
+/* side bar with now playing etc */
+.Root__right-sidebar {
+    display: none;
+}
+
+/* explore button */
+.main-globalNav-browseButtonWrapper {
+    display: none;
+}
+
+/* spicetify buttons */
+[aria-label="Update Spicetify"] {
+    display: none !important;
+}
+
+.custom-navlinks-scrollable_container {
     display: none;
 }
